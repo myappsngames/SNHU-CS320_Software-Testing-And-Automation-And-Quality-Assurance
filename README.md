@@ -1,6 +1,6 @@
 # SNHU CS320: Software Testing, Automation, and Quality Assurance
 
-Final Project containing three services and unit tests
+Final Project containing three mobile application services and unit tests
 
 ## Reflection
 
